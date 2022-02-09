@@ -1,0 +1,20 @@
+{
+  "short_name": "DotaFix",
+  "name": "DotaFix - Counter picker",
+  "start_url": ".",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "assets/logo-dotafix.optimized.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    },
+    {
+      "src": "assets/favicon64.png",
+      "type": "image/png",
+      "sizes": "64x64"
+    }
+  ],
+  "background_color": "#222b34",
+  "theme_color": "#222b34"
+}
